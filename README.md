@@ -11,9 +11,11 @@ The course is organized by topic, with each topic in its own folder containing:
 
 ## Topics
 
-- [01. Python Basics](python/01_basics/README.md) - Prerequisites, installation, and running Python code
-- [02. Virtual Environments](python/02-virtual-environment/README.md) - Managing Python environments and dependencies
-- [03. Data Types](python/03-datatypes/README.md) - Understanding Python data types and mutability
+- [01. Python Basics](01-python/01_basics/README.md) - Prerequisites, installation, and running Python code
+- [02. Virtual Environments](01-python/02-virtual-environment/README.md) - Managing Python environments and dependencies
+- [03. Data Types](01-python/03-datatypes/README.md) - Understanding Python data types and mutability
+- [04. Conditions](01-python/04-conditions/README.md) - Conditional statements and logic
+- [05. Loops](01-python/05-loops/README.md) - Loops and iteration in Python
 
 ## Prerequisites
 
