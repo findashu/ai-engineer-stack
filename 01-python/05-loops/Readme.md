@@ -7,7 +7,7 @@ Simulates a token dispenser system where tokens are issued sequentially from 1 t
 
 **New Concepts:**
 - `for` loop: Used to iterate over a sequence.
-- `range(start, stop)`: Generates a sequence of numbers from start to stop-1.
+- `range(start, stop)`: Generates a sequence of numbers from start to `stop-1`.
 
 ## 05-02-batch-job.py
 Simulates preparing bread batches every 15 minutes for 4 batches.
@@ -28,11 +28,32 @@ Creates a numbered menu board using enumeration.
 **New Concepts:**
 - `enumerate(iterable, start=1)`: Returns an enumerate object that yields pairs (index, item) for each item in the iterable, starting from the specified start value.
 
+```python
+
+seasons = ['Spring', 'Summer', 'Fall', 'Winter']
+list(enumerate(seasons))
+# [(0, 'Spring'), (1, 'Summer'), (2, 'Fall'), (3, 'Winter')]
+list(enumerate(seasons, start=1))
+# [(1, 'Spring'), (2, 'Summer'), (3, 'Fall'), (4, 'Winter')]
+
+```
+
 ## 05-05-zip-can-comine-list.py
 Combines customer names with their bill amounts for order summary.
 
 **New Concepts:**
 - `zip(*iterables)`: Takes iterables and returns an iterator of tuples where the i-th tuple contains the i-th element from each of the argument sequences.
+
+```python
+
+for item in zip([1, 2, 3], ['sugar', 'spice', 'everything nice']):
+    print(item)
+
+(1, 'sugar')
+(2, 'spice')
+(3, 'everything nice')
+
+```
 
 ## 05-06-while-loop.py
 Simulates heating coffee from 40°C to boiling point (100°C) in steps.

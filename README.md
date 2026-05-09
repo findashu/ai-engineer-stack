@@ -16,6 +16,7 @@ The course is organized by topic, with each topic in its own folder containing:
 - [03. Data Types](01-python/03-datatypes/README.md) - Understanding Python data types and mutability
 - [04. Conditions](01-python/04-conditions/README.md) - Conditional statements and logic
 - [05. Loops](01-python/05-loops/README.md) - Loops and iteration in Python
+- [06. Functions](01-python/06-function/Readme.md) - Defining functions, arguments, return values, scope, and functional programming
 
 ## Prerequisites
 
