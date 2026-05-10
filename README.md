@@ -18,6 +18,7 @@ The course is organized by topic, with each topic in its own folder containing:
 - [05. Loops](01-python/05-loops/README.md) - Loops and iteration in Python
 - [06. Functions](01-python/06-function/Readme.md) - Defining functions, arguments, return values, scope, and functional programming
 - [07. Comprehensions](01-python/07-comprehensions/README.md) - List, set, dictionary, and generator comprehensions in Python
+- [08. Generators & Decorators](01-python/08-generators-decorators/Readme.md) - Lazy iteration with generators and behavior extension with decorators
 
 ## Prerequisites
 
