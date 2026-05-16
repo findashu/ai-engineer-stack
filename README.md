@@ -1,9 +1,23 @@
 # ai-engineer-stack
 
-A structured learning repository following the **Full Stack Generative and Agentic AI with Python** course — from Python fundamentals through to building production-grade AI systems, multi-agent workflows, and LLM-powered applications.
+> Master the AI Engineer Stack: A professional-grade roadmap for Agentic Generative AI — covering Python, LangGraph, Multi-Agent workflows, Scalable RAG, Semantic Memory, and MCP integrations using LLMs from Hugging Face and OpenAI.
+ 
+A structured learning repository following the **Full Stack Generative and Agentic AI with Python** course on Udemy. Built as a personal reference — each module's README is written to be useful long after the course is done, with real-world context and senior engineer notes alongside the fundamentals.
 
-> This repo doubles as a **personal reference** — each module has a README written to be useful long after the course is done.
+---
 
+## Tech Stack
+ 
+| Layer | Technologies |
+|---|---|
+| Language | Python 3.12+ |
+| LLM Providers | OpenAI, Hugging Face |
+| Agent Framework | LangGraph |
+| Memory | Semantic Memory, Vector Stores |
+| Retrieval | Scalable RAG pipelines |
+| Integration | MCP (Model Context Protocol) |
+| Workflow | Multi-Agent orchestration |
+ 
 ---
 
 ## What This Course Covers
@@ -13,8 +27,8 @@ The course is split into two major phases:
 **Phase 1 — Python Foundations**
 Get comfortable with Python as it's actually used in AI/ML engineering — not just syntax, but patterns you'll see repeatedly in real codebases.
 
-**Phase 2 — AI & Agentic Systems** *(coming soon)*
-Move into LLMs, prompt engineering, API integrations, autonomous agents, tool use, and multi-agent orchestration.
+**Phase 2 — Generative & Agentic AI**
+Build real AI systems — from raw LLM API calls through to autonomous multi-agent workflows with persistent memory, tool use, and scalable retrieval.
 
 ---
 
