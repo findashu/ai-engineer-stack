@@ -46,7 +46,9 @@ ai-engineer-stack/
 │   ├── 07-comprehensions/
 │   ├── 08-generators-decorators/
 │   ├── 09-object-oriented-programming/
-│   └── 10-exception-handling/
+│   ├── 10-exception-handling/
+│   ├── 11-multithreding-multiprocessing-gil/
+│   └── 12-asyncio/
 └── 02-ai/                        ← upcoming
 ```
 
@@ -72,6 +74,8 @@ Each module contains:
 | 08 | [Generators & Decorators](01-python/08-generators-decorators/Readme.md) | Lazy iteration, `yield`, decorator pattern, `functools` |
 | 09 | [Object-Oriented Programming](01-python/09-object-oriented-programming/Readme.md) | Classes, inheritance, composition, MRO, `@property` |
 | 10 | [Exception Handling & File I/O](01-python/10-exception-handling/Readme.md) | `try/except/else/finally`, custom exceptions, safe file handling |
+| 11 | [Multithreading and Multiprocessing](01-python/11-multithreding-multiprocessing-gil/Readme.md) | `threading`, `multiprocessing`, GIL, locks, queues, shared values |
+| 12 | [Async Programming](01-python/12-asyncio/Readme.md) | `async`/`await`, event loop, `asyncio.gather()`, executors, daemon threads |
 
 ### Phase 2 — Generative & Agentic AI (upcoming)
 
