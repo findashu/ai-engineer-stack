@@ -45,7 +45,8 @@ ai-engineer-stack/
 │   ├── 06-function/
 │   ├── 07-comprehensions/
 │   ├── 08-generators-decorators/
-│   └── 09-object-oriented-programming/
+│   ├── 09-object-oriented-programming/
+│   └── 10-exception-handling/
 └── 02-ai/                        ← upcoming
 ```
 
@@ -70,6 +71,7 @@ Each module contains:
 | 07 | [Comprehensions](01-python/07-comprehensions/README.md) | List, set, dict, generator comprehensions |
 | 08 | [Generators & Decorators](01-python/08-generators-decorators/Readme.md) | Lazy iteration, `yield`, decorator pattern, `functools` |
 | 09 | [Object-Oriented Programming](01-python/09-object-oriented-programming/Readme.md) | Classes, inheritance, composition, MRO, `@property` |
+| 10 | [Exception Handling & File I/O](01-python/10-exception-handling/Readme.md) | `try/except/else/finally`, custom exceptions, safe file handling |
 
 ### Phase 2 — Generative & Agentic AI (upcoming)
 
